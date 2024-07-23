@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @devobeng
-- 👀 I’m interested in <strong>Machine Learning, Deep learning, Web development and Native Mobile Development (React Native)</strong>
+- 👀 I’m interested in <strong>Machine Learning, Deep learning, Web development and Hybrid Mobile Development (React Native)</strong>
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dev,obeng.bismark@gmail.com
